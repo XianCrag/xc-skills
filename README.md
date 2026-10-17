@@ -3,7 +3,7 @@
 LLM-friendly skills. Each skill is a folder containing a `SKILL.md` with YAML frontmatter (`name`, `description`) and markdown instructions.
 
 ```
-skills/
+xc-skills/
 └── <skill-name>/
     └── SKILL.md
 ```
